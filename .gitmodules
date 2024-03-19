@@ -1,0 +1,9 @@
+[submodule "Counter-App-React"]
+	path = Counter-App-React
+	url = https://github.com/YAHYA-YOUNAS/Counter-App-React
+[submodule "Tic-Tac-Toe-Game"]
+	path = Tic-Tac-Toe-Game
+	url = https://github.com/YAHYA-YOUNAS/Tic-Tac-Toe-Game
+[submodule "Vidly-App"]
+	path = Vidly-App
+	url = https://github.com/YAHYA-YOUNAS/Vidly-App
